@@ -3,6 +3,3 @@
 
 ## Contents
 
-# Authors
-* Oluwaseun Tanimola
-* Ifeanyi-Obiorah Chidindu
